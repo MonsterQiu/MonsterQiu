@@ -21,13 +21,4 @@
 
 <br/>
 
-<a href="https://github.com/MonsterQiu">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MonsterQiu&show_icons=true&hide_border=true&cache_seconds=86400&title_color=000000&text_color=555555&icon_color=000000&bg_color=00000000" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/MonsterQiu">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterQiu&layout=compact&hide_border=true&cache_seconds=86400&title_color=000000&text_color=555555&bg_color=00000000" alt="Top Languages" />
-</a>
-
-<br/>
-
 <sub>极简、克制、长期主义。<i>Minimal, deliberate, in it for the long way.</i></sub>
