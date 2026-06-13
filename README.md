@@ -17,10 +17,6 @@
 
 欢迎来 [博客](https://ymsunv.com) 或 [X](https://x.com/ymsunv) 找我。
 
-<br/>
 
-`AI` · `Prompt Engineering` · `TypeScript` · `Swift` · `Astro` · `Cloudflare`
-
-<br/>
 
 <sub>极简、克制、长期主义。<i>Minimal, deliberate, in it for the long way.</i></sub>
