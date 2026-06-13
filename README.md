@@ -7,13 +7,15 @@
 
 ---
 
-我是 Q（yming），一个做 **AI 应用与工具**的独立开发者。
+我是 Q（yming），一名独立开发者。
 
-我感兴趣的事只有一件：**人和 AI 怎么配合才不别扭**——与其争论 AI 会不会取代人，我更在意把"人调用 AI"这一步做得顺手、优雅。这也是我博客 [ymsunv.com](https://ymsunv.com) 一直在写的主题。
+我感兴趣的事只有一件：**人类与AI的交互如何更加优雅和有趣**—
 
-最近在做 [**fast-world**](https://github.com/MonsterQiu/fast-world)，一个常驻 macOS 菜单栏、支持本地词库的单词本应用。我喜欢这种"小而顺手"的工具——把一件事做到极致（do one thing well），胜过堆一堆用不上的功能。
+这是我博客 [ymsunv.com](https://ymsunv.com) 
 
-信奉长期主义、能简则简。如果你也在琢磨人和 AI 的相处方式，或者只是想聊聊，欢迎来 [博客](https://ymsunv.com) 或 [X](https://x.com/ymsunv) 找我。
+信奉长期主义、能简则简
+
+欢迎来 [博客](https://ymsunv.com) 或 [X](https://x.com/ymsunv) 找我。
 
 <br/>
 
